@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Diabetes Data holder</string>
+    <string name="title">Diabetes check-up book</string>
+    <string name="username">username</string>
+    <string name="login">log in</string>
+    <string name="createId">create account</string>
+    <string name="addNew">Add new</string>
+    <string name="records">Records</string>
+    <string name="logout">log out</string>
+    <string name="save">save</string>
+
+</resources>
