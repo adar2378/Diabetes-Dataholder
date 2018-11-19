@@ -32,7 +32,7 @@ Run the apk file in your android emulator on pc or install in on your android ph
 
 ## Features
 
-- Login Page
+- #### Login Page
   - You can create new ID to store information for different persons. As I built it for parents only so didn't include password protection. :smile:
 
 <p align="center">
@@ -40,20 +40,20 @@ Run the apk file in your android emulator on pc or install in on your android ph
 </p>
   
 
-- Main Menu
+- #### Main Menu
   - The user can find two options here, one is for adding new information and another is for viewing previous ones.
 <p align="center">
   <img src="https://image.ibb.co/d2dKh0/photo6312333999690852374.jpg" width="200" height="300"/>
 </p>
   
   
-- Adding "New" information
+- #### Adding "New" information
   - Here user can store their current BP with their diabetes level with two more options, one is before eating and another is after eating is diabetes level changes before and after meal.
 <p align="center">
   <img src="https://image.ibb.co/nqGuFL/photo6312333999690852373.jpg" width="200" height="300"/>
 </p>
   
-- View "Previous"
+- #### View "Previous"
   - Here the user can find all the saved information with time stamp to and sorted by most recent addition.
 <p align="center">
   <img src="https://image.ibb.co/dUVbUf/photo6312041636972046536.jpg" width="200" height="300"/>
